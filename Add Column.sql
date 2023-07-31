@@ -1,0 +1,1 @@
+ALTER TABLE mgr_db_for_alzheimer ADD COLUMN visit_2 INTEGER;
